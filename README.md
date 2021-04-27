@@ -5,7 +5,7 @@ Cryptofolio is a no-frills portfolio app with functions and tools to manipulate 
 By creating a simple user-friendly interface, we hope that newcomers to the scene won't feel intimidated while managing their cryptofolio.
 
 ## Tech Stack 💡
-React, Chart.js, Material-UI, SCSS, Express, ElephantSQL
+JavaScript, React, Chart.js, Material-UI, SCSS, Express, ElephantSQL, Docker
 
 ## Dashboard ✅
 ### Large Screen
